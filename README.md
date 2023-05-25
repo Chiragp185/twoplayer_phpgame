@@ -1,2 +1,2 @@
-# twoplayer_phpgame
-It is a 2 player php game
+# 2player_phpgame
+Run game/game.php on localhost
