@@ -1,5 +1,5 @@
 <?php
-// session_start();
+session_start();
 $_SESSION['board'] = [0, 0, 0, 0, 0, 0, 0, 0, 0];
 $_SESSION['placep1'] = 0;
 $_SESSION['placep2'] = 0;
